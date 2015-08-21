@@ -16,6 +16,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 @Controller
 public class UserListController {
+
 	private List<User> userList = new ArrayList<User>(); 
 	
 	@RequestMapping(value="/AddUser.html",method=RequestMethod.GET)

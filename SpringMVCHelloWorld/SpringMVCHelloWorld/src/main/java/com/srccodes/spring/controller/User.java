@@ -11,7 +11,7 @@ public class User {
 	public void setName(String name) {
 		this.name = name;
 	}
-	public String getEducation() {
+	public String getEducation(){
 		return education;
 	}
 	public void setEducation(String education) {

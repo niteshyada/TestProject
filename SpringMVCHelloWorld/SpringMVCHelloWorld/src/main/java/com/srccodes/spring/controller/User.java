@@ -5,7 +5,7 @@ public class User {
 	private String name = null;
 	private String education = null;
 	
-	public String getName() {
+	public String getName(){
 		return name;
 	}
 	public void setName(String name) {

@@ -20,6 +20,7 @@ public class SpringMVCHelloController {
 		return "helloWorld";
 	}*/
 	
+
 	@RequestMapping("/hello")
 	public ModelAndView nextHelloWorld(Model model) {
 		String message = "Hello World, Spring 3.0!";

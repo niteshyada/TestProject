@@ -1,5 +1,9 @@
 package com.srccodes.spring.controller;
-
+/**
+ * 
+ * @author IB1013
+ *
+ */
 public class User {
 	
 	private String name = null;

@@ -6,7 +6,7 @@ package com.srccodes.spring.controller;
  */
 public class User {
 	
-	
+	//Test User
 	private String name = null;
 	private String education = null;
 	

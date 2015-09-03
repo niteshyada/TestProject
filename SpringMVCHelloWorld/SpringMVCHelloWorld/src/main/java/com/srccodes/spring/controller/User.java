@@ -6,6 +6,7 @@ package com.srccodes.spring.controller;
  */
 public class User {
 	
+	
 	private String name = null;
 	private String education = null;
 	

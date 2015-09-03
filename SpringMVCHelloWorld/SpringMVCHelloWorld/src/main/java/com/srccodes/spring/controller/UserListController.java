@@ -13,9 +13,11 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-
+//Nitesh
+//UserListController is use to  get the User
 @Controller
 public class UserListController {
+
 	private List<User> userList = new ArrayList<User>(); 
 	
 	@RequestMapping(value="/AddUser.html",method=RequestMethod.GET)

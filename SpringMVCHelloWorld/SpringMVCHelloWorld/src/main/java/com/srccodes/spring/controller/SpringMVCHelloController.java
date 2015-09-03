@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 
 /**
- * @author Abhijit Ghosh
+ * @author Nitesh Yadav
  * @version 1.0
  */
 
@@ -20,6 +20,7 @@ public class SpringMVCHelloController {
 		return "helloWorld";
 	}*/
 	
+
 	@RequestMapping("/hello")
 	public ModelAndView nextHelloWorld(Model model) {
 		String message = "Hello World, Spring 3.0!";

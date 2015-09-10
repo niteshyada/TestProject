@@ -16,6 +16,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 //Nitesh
 //UserListController is use to  get the User
 //testing conflits
+// UserListController  class
 @Controller
 public class UserListController {
 

@@ -13,8 +13,9 @@ public class User {
 	
 	/**
 	 * 
+	 * @eturn
 	 * @return username Admin test
-	 *  Admin name NItesh
+	 * name
 	 */
 	public String getName(){
 		return name;

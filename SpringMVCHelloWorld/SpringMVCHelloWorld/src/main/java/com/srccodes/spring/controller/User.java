@@ -13,7 +13,7 @@ public class User {
 	
 	/**
 	 * 
-	 * @return
+	 * @return Name username
 	 */
 	public String getName(){
 		return name;
